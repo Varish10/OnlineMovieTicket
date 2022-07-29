@@ -1,0 +1,2 @@
+# OnlineMovieTicket
+● Designed a web-based e-commerce for ticket booking for an existing movie theatre business. The project’s goal to deliver an online ticket booking website for Multiplex and Single screen, we bought efficiency to 100% of the requirement. ● Led a team of 4 members who comparatively worked using Html CSS to make front end or view level. ● Utilized backend technologies such as Python, and database as MySQL. The web application is as similar to BookMyShow where we can buy the movie tickets through this website.
